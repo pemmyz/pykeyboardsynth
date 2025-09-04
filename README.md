@@ -1,5 +1,7 @@
 # pykeyboardsynth
 
+This predates js_keyboardsynth, which is orinally based on same idea from this project.
+
 # 🎹 Pygame Keyboard Synth
 
 This is a simple virtual synthesizer built with **Pygame** and **NumPy**. It maps your keyboard keys to musical notes and plays sine wave tones when keys are pressed.
