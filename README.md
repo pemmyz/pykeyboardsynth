@@ -1,6 +1,6 @@
 # pykeyboardsynth
 
-This predates [js_keyboardsynth](https://github.com/pemmyz/js_keyboardsynth) , which is orinally based on same idea from this project.
+This project predates [js_keyboardsynth](https://github.com/pemmyz/js_keyboardsynth) , which is orinally based on same idea from this project.
 
 # 🎹 Pygame Keyboard Synth
 
