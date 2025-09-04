@@ -1,7 +1,7 @@
 # pykeyboardsynth
 
 - This project predates [js_keyboardsynth](https://github.com/pemmyz/js_keyboardsynth) , which is orinally based on same idea from this project.
-- - For all the latest features and fixes please check [js_keyboardsynth](https://github.com/pemmyz/js_keyboardsynth)
+- For all the latest features and fixes please check [js_keyboardsynth](https://github.com/pemmyz/js_keyboardsynth)
 
 # 🎹 Pygame Keyboard Synth
 
